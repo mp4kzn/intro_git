@@ -1,2 +1,5 @@
 Git Practice
 learn basics
+
+git add
+git commit
